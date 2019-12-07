@@ -1,3 +1,0 @@
-to:6453gobind@gmail.com
-subject:automate email sending
-content: this is just for checking

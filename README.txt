@@ -1,3 +1,5 @@
+#Ubuntu 18.4 REQUIRED
+
 Steps to be followed:-
 
 1.)sudo apt - scrot

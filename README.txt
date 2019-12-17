@@ -1,4 +1,4 @@
-#Ubuntu 18.4 REQUIRED
+#Ubuntu 18.4 with Gnome is REQUIRED
 
 Steps to be followed:-
 
@@ -8,7 +8,7 @@ Steps to be followed:-
 
 3.)Import all the libraries
 
-4.)Run "setting credentials" and type username and password.
+4.)Key can be set anything in bytes .Run "setting credentials" and type username and password.
  
 # Not to worry because your password is encrypted and saved.
 #You can check your encrypted password in credentials file.
